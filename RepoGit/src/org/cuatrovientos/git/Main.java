@@ -5,7 +5,7 @@ package org.cuatrovientos.git;
 
 
 /**
- * @author Irene
+ * @author Pftr
  *
  */
 public class Main {
