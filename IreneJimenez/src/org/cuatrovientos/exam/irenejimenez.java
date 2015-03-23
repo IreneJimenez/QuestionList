@@ -23,6 +23,7 @@ public class irenejimenez {
 	public static void showArray(String[] ipAddresses) {
 		for (int i=0;i< ipAddresses.length;i++) {
 			System.out.println(i + ": " + ipAddresses[i]);
+			
 		}
 	}
 	
